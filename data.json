@@ -1,0 +1,53 @@
+       {
+       "details":{
+		"image":"images.png",
+		"name":"bhavya",
+		"phno":"+91-9866936213",
+		"address":"guntur",
+		"email":"bhavyanimmala55@gmail.com"
+	},
+	"careerinfo":{
+		"information":"to pursue a challenging career"
+	},
+		"eduqua":[
+			{
+				"qualification":"B.tech",
+				"institue":"vigana nirula",
+				"year":"2016-2020",
+				"percentage":"80%"
+			},
+		{
+			"qualification":"inter",
+		    "institue":"chaitanya",
+				"year":"2014-2016",
+			"percentage":"90%"
+			},
+			{
+				"qualification":"school",
+		    "institue":"Dr.k.kr'sGowtham",
+				"year":"2016",
+			"percentage":"90%"
+	        }
+		],
+		"technicalskills":[{
+			"title":"programming languages",
+			"info":["c","c++","java"]
+		},
+		{"title":"data base",
+		"info":["sql","mysql","psql"]
+	}
+	],
+	"ach":[
+		{
+			"info":["certification in codemania","role play","poster design"]
+		},
+		{
+			"info":["certification in codemania","role play","poster design"]
+		}]
+
+}
+
+
+
+
+   
